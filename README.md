@@ -11,6 +11,7 @@
 3. **Objetivo:** Destrua os inimigos antes que eles colidam com o planeta no decorrer de 4 fases.
 
 ## Vídeo de Apresentação e Gameplay
-[**Clique aqui para assistir a demonstração de gameplay e explicação do código no YouTube**](COLOQUE_SEU_LINK_AQUI)
+
 
 ## Link para o jogo
+https://pahrs.github.io/Armageddon/

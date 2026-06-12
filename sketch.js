@@ -85,7 +85,6 @@ function telaSobre() {
   text("CRÉDITOS", width/2, height/4);
   textSize(20);
   text("Desenvolvido por: Paulo Henrique Simão", width/2, height/2 - 20);
-  text("Feito com p5.js usando HTML5 Canvas", width/2, height/2 + 20);
   
   desenharBotaoVoltar();
 }
